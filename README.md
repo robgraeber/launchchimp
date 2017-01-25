@@ -1,6 +1,6 @@
 Launchchimp
 =================
-Modification of https://github.com/timols/launchchimp to be called as a one-off script.git
+Modification of https://github.com/timols/launchchimp to be called as a one-off script.   
 Syncs Launchrock's email list with Mailchimp.
 
 ### Usage:
@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-Env variables:
+#####Env variables:
 ```
 LAUNCHCHIMP_LR_EMAIL        <---- Email address to login to Launchrock (required)
 LAUNCHCHIMP_LR_PASSWORD     <---- Password used to login to Launchrock (required)
